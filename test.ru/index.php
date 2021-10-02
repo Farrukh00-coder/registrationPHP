@@ -2,7 +2,9 @@
   require "includes/config.php";
 ?>
 
-
+//just test
+//hey hey
+//Murad je est
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -166,6 +168,6 @@
     <?php include "includes/footer.php"; ?>
 
   </div>
-
+//Nado znat kak pravilno zit
 </body>
 </html>
